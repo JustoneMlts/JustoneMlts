@@ -1,11 +1,9 @@
 <h1 align="center"> Hi 👋, I'm Justin Maltese  </h1>
 <p align="center"> a passionate Web Developer from France 😃 </p>
 
-    🔭 I’m currently working on Jatin (soon)
+    🔭 I’m currently working on Hirelia (soon)
 
-    🌱 I’m currently learning Next.Js, Typescript, WebSockets and Jest
-
-    👨‍💻 All of my projects are available at https://portfolio-justin-maltese.netlify.app/
+    👨‍💻 All of my projects are available at https://portfolio-justin-nine.vercel.app
 
     📫 How to reach me justin.maltese07@gmail.com
     
